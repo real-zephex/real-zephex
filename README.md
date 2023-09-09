@@ -6,7 +6,7 @@
 
 ###
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=real-zephex&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=real-zephex&show_icons=true&theme=transparent)
 
 
 <!---
