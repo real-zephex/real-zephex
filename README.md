@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @real-zephex
 - 👀 I’m interested in machine-learning, networking and web-development
 - 🌱 I’m currently learning python, html, js, css
-- 💞️ I’m looking to collaborate on my movie website
 - 📫 How to reach me: zephex@duck.com
 
 ###
